@@ -102,19 +102,7 @@ Saanvi-Atelier/
 ├── campaign/        8 posts (1080 × 1350) and 2 stories (1080 × 1920), WebP
 ├── brand/           logo.svg and the logo on silk
 ├── assets/          README banner and campaign grid
-└── CREDITS.md       photographers, museums and licences
 ```
-
-## Credits
-
-**Concept, art direction, copy and design:** Guru Charan.
-
-Saanvi Atelier is a **concept brand** made for this portfolio. It isn't a real label, and the products, prices and figures are fictional.
-
-The photography is free-licence material from [Openverse](https://openverse.org) and [Wikimedia Commons](https://commons.wikimedia.org) (CC BY and CC0), including museum photographs of antique Varanasi saris whose designs are in the public domain. Every photo was cropped, colour-graded and designed over, and every photographer is credited in **[CREDITS.md](CREDITS.md)**.
-
-<div align="center">
-<br>
 
 **[Portfolio](https://guru1315-portfolio.vercel.app)** · **[More graphic design work](https://guru1315-portfolio.vercel.app/graphic-designer)** · **[Aranya Living](https://github.com/Guru1315/Aaranya-Living)** · **[Kaelum Springs](https://github.com/Guru1315/kaelum-springs)**
 
